@@ -1,11 +1,11 @@
 {
   "name": "personal-site",
   "version": "4.0.0",
-  "homepage": "https://mldangelo.com/",
+  "homepage": "https://www.this-is-yi.com/",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mldangelo/personal-site.git"
+    "url": "https://github.com/YiWang0516/personal-site-react.git"
   },
   "engines": {
     "node": ">=14.x"
